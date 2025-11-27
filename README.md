@@ -1,6 +1,6 @@
-# Calistus Musyimi Mwonga | Data Scientist & Machine Learning Engineer
+# Calistus Musyimi Mwonga | Data Analyst & Data Scientist
 
-### My Professional Portfolio: Transforming Complex Models into Tangible Solutions
+### My Professional Portfolio: Transforming Complex Data into Tangible Solutions
 
 ---
 
